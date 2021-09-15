@@ -8,9 +8,9 @@ Fones: (11) 96266-9041/ (11)2615-0932
 
 E-mails: [claudio.neves@etec.sp.gov.br](mailto:claudio.neves@etec.sp.gov.br)/ [cfneguacu@uni9.edu.br](mailto:cfneguacu@uni9.edu.br)
 
-GitHub - https://github.com/cfneguacu
+GitHub - https://github.com/claudioneves1981
 
- 
+Linkedin: https://www.linkedin.com/in/cl%C3%A1udio-neves-a5416628/
 
 **Qualificações profissionais**
 
