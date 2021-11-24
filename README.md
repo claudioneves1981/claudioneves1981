@@ -6,7 +6,7 @@ Rua Jupi 215: Bloco 1 Ap 408 - CEP: 04755-050 São Paulo – SP
 
 Fones: (11) 96266-9041/ (11) 2615-0932
 
-E-mail: [Hotmail](mailto:cfneguacu@hotmail.com)
+E-mail: [cfneguacu@hotmail.com](mailto:cfneguacu@hotmail.com)
 
 GitHub - https://github.com/claudioneves1981
 
