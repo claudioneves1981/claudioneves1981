@@ -4,9 +4,9 @@ Brasileiro – Solteiro Nascimento: 15/09/1981
 
 Rua Jupi 215: Bloco 1 Ap 408 - CEP: 04755-050 São Paulo – SP 
 
-Fones: (11) 96266-9041/ (11)2615-0932
+Fones: (11) 96266-9041/ (11) 2615-0932
 
-E-mails: [claudio.neves@etec.sp.gov.br](mailto:claudio.neves@etec.sp.gov.br)/ [cfneguacu@uni9.edu.br](mailto:cfneguacu@uni9.edu.br)
+E-mail: [Hotmail](mailto:cfneguacu@hotmail.com)
 
 GitHub - https://github.com/claudioneves1981
 
