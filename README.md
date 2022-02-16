@@ -1,16 +1,25 @@
 # **Cláudio Francisco das Neves**
 
-Brasileiro – Solteiro Nascimento: 15/09/1981 
+ <a href="https://github.com/claudioneves1981">
+
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=claudioneves1981&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+
+
+Brasileiro – Solteiro 
+  
+Nascimento: 15/09/1981 
 
 Rua Jupi 215: Bloco 1 Ap 408 - CEP: 04755-050 São Paulo – SP 
 
 Fones: (11) 96266-9041/ (11) 2615-0932
 
-E-mail: [cfneguacu@hotmail.com](mailto:cfneguacu@hotmail.com)
+<div>   
 
-GitHub - https://github.com/claudioneves1981
+ <a href = "mailto:claudio.neves@etec.sp.gov.br"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"" target="_blank"></a>
 
-Linkedin: https://www.linkedin.com/in/cl%C3%A1udio-neves-a5416628/
+ <a href=https://www.linkedin.com/in/cláudio-neves-a5416628" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+ <a href="https://api.whatsapp.com/send?phone=5511962669041" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
 
 **Qualificações profissionais**
 
