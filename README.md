@@ -1,6 +1,6 @@
 # **Cláudio Francisco das Neves**
 
- <a href="https://github.com/claudioneves1981">
+ <a href="https://github.com/claudioneves1981"></a>
 
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=claudioneves1981&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
@@ -15,11 +15,11 @@ Fones: (11) 96266-9041/ (11) 2615-0932
 
 <div>   
 
- <a href = "mailto:claudio.neves@etec.sp.gov.br"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"" target="_blank"></a>
+ <a href = "mailto:claudio.neves@etec.sp.gov.br"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 
- <a href=https://www.linkedin.com/in/cláudio-neves-a5416628" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://www.linkedin.com/in/cláudio-neves-a5416628" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 
- <a href="https://api.whatsapp.com/send?phone=5511962669041" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+ <a href="https://api.whatsapp.com/send?phone=5511962669041" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 
 **Qualificações profissionais**
 
