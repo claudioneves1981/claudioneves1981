@@ -21,49 +21,30 @@ Fones: (11) 96266-9041/ (11) 2615-0932
 
  <a href="https://api.whatsapp.com/send?phone=5511962669041" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 
-**Qualificações profissionais**
-
-Técnicas de atendimento ao usuário;
-
-Montagem e Manutenção de Desktops/Notebooks;
-
-Suporte a microinformática e internet;
-
+Especialista em Relacionamento ao Cliente em Produtos de Tecnologia
+Suporte Telefonico/Internet a Produtos Eletronicos(Configuração de Tvs, Home Theater, Computadores, Celulares,  Instalação de Softwares e outros)
 Programação: C# / Java / VBA;
-
-Servidores: Windows / Linux;
-
+Servidores:  Windows / Linux;
 Pacote Office: Word / Excel / Outlook;
-
-Banco de Dados: PostGreSQL. 
-
-Versionamento:  Git , GitHub.
-
-Conteiner: Docker
+Banco de Dados: PostGreSQL, MySQL;
+Versionamento:   Git,  GitHub, BitBucket;
+Virtualização / Container :  Docker.
 
 **Formação Escolar**
 
-Cursando - Tecnologia da Gestão da Tecnologia da Informação – Universidade Nove de Julho – UNINOVE – 2019 / 2021
+Curso em Tecnologia da Gestão da Tecnologia da Informação – Universidade Nove de Julho – UNINOVE – concluido 2021
 
 **Experiência Profissional**
 
-- Empresa: Atento Brasil 
+- Empresa: Atento Brasil - 2022
+	 Cargo – Especialista em Relacionamento ao Cliente – Samsung Tecnologia
 
-  Cargo: Operador de Sac I – Atendimento C6 Bank
+- Empresa: Atento Brasil – 2020/2021
+  Cargo: Operador de Sac I –  C6 Bank
 
-  Out//2020 – Mai/2021
+- Empresa: Atento Brasil - 2015
+  Cargo: Operador de Sac I – Planos de Saude Qualicorp 
 
-- Empresa: Atento Brasil
-
-  Cargo: Operador de Sac I – Atendimento Planos de Saude Qualicorp 
-
-   Set/2015 – Dez/2015
-
-- Empresa: Sis Soluções Integradas em Serviços
-
-  Cargo: Operador de Call Center
-
-  Mar/2012 – Abr/2012
 
 **Freelancer:**
 
