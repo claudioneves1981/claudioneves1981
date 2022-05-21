@@ -26,12 +26,12 @@ Atendimento Telefônico.
 Suporte Técnico ao Cliente via Telefone e Internet
 	
 Conhecimento Técnico em Informática nas seguintes áreas:
-	- Programação: C# / Java / VBA;
-	- Servidores:  Windows / Linux;
-	- Pacote Office: Word / Excel / Outlook;
-	- Banco de Dados: PostGreSQL, MySQL;
-	- Versionamento:   Git,  GitHub, BitBucket;
-	- Virtualização / Container :  Docker.
+- Programação: C# / Java / VBA;
+- Servidores:  Windows / Linux;
+- Pacote Office: Word / Excel / Outlook;
+- Banco de Dados: PostGreSQL, MySQL;
+- Versionamento:   Git,  GitHub, BitBucket;
+- Virtualização / Container :  Docker.
 	
 
 **Formação Escolar**
@@ -41,23 +41,25 @@ Curso em Tecnologia da Gestão da Tecnologia da Informação – Universidade No
 **Experiência Profissional**
 
 *Empresa: Atento Brasil - 05/2022 - atualmente*
-    	- Cargo – Especialista em Relacionamento ao Cliente – Banco Original
+- Cargo – Especialista em Relacionamento ao Cliente – Banco Original
+
 
 *Empresa: Atento Brasil - 03/2022 - 05/2022*
-    	- Cargo – Especialista em Relacionamento ao Cliente – Tech Tv / Samsung 
+- Cargo – Especialista em Relacionamento ao Cliente – Tech Tv / Samsung 
+
 
 *Empresa: Atento Brasil – 10/2020 a 05/2021*
-	- Cargo: Operador de Sac I –  C6 Bank
+- Cargo: Operador de Sac I –  C6 Bank
 
 
 **Freelancer:**
 
-- Empresa: Lomadee / Magazine Luiza
+*Empresa: Lomadee / Magazine Luiza*
 
-  Divulgação de Produtos pela Internet via Marketing de Afiliados em redes Sociais, Email e Blogs. Abril 2012 – Atualmente.
+- Divulgação de Produtos pela Internet via Marketing de Afiliados em redes Sociais, Email e Blogs. Abril 2012 – Atualmente.
 
-- Empresa: Fuja
+*Empresa: Fuja*
 
-  Administração de Página Web, Pesquisa e Inserção de Conteúdo
+- Administração de Página Web, Pesquisa e Inserção de Conteúdo
 
-  Elaboração e Edição de Planilhas em Excel.  Out/2019 a Dez 2019.
+- Elaboração e Edição de Planilhas em Excel.  Out/2019 a Dez 2019.
