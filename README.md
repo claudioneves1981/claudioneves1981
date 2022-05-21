@@ -21,14 +21,18 @@ Fones: (11) 96266-9041/ (11) 2615-0932
 
  <a href="https://api.whatsapp.com/send?phone=5511962669041" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 
-Especialista em Relacionamento ao Cliente em Produtos de Tecnologia
-Suporte Telefonico/Internet a Produtos Eletronicos(Configuração de Tvs, Home Theater, Computadores, Celulares,  Instalação de Softwares e outros)
-Programação: C# / Java / VBA;
-Servidores:  Windows / Linux;
-Pacote Office: Word / Excel / Outlook;
-Banco de Dados: PostGreSQL, MySQL;
-Versionamento:   Git,  GitHub, BitBucket;
-Virtualização / Container :  Docker.
+Atendimento Telefônico.
+	
+Suporte Técnico ao Cliente via Telefone e Internet
+	
+Conhecimento Técnico em Informática nas seguintes áreas:
+	- Programação: C# / Java / VBA;
+	- Servidores:  Windows / Linux;
+	- Pacote Office: Word / Excel / Outlook;
+	- Banco de Dados: PostGreSQL, MySQL;
+	- Versionamento:   Git,  GitHub, BitBucket;
+	- Virtualização / Container :  Docker.
+	
 
 **Formação Escolar**
 
@@ -36,14 +40,14 @@ Curso em Tecnologia da Gestão da Tecnologia da Informação – Universidade No
 
 **Experiência Profissional**
 
-- Empresa: Atento Brasil - 2022
-	 Cargo – Especialista em Relacionamento ao Cliente – Samsung Tecnologia
+*Empresa: Atento Brasil - 05/2022 - atualmente*
+    	Cargo – Especialista em Relacionamento ao Cliente – Banco Original
 
-- Empresa: Atento Brasil – 2020/2021
-  Cargo: Operador de Sac I –  C6 Bank
+*Empresa: Atento Brasil - 03/2022 - 05/2022*
+    	Cargo – Especialista em Relacionamento ao Cliente – Tech Tv / Samsung 
 
-- Empresa: Atento Brasil - 2015
-  Cargo: Operador de Sac I – Planos de Saude Qualicorp 
+*Empresa: Atento Brasil – 10/2020 a 05/2021*
+	Cargo: Operador de Sac I –  C6 Bank
 
 
 **Freelancer:**
