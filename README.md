@@ -21,17 +21,17 @@ Fones: (11) 96266-9041/ (11) 2615-0932
 
  <a href="https://api.whatsapp.com/send?phone=5511962669041" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 
-** Habilidades / Competências / Experiências**
+**Habilidades / Competências / Experiências**
 
-	-SQL(experiência)
-	-Microsoft Office
-	-Gerenciamento de Projetos
-	-Habilidades Analiticas
-	-Comunicação
-	-Atendimento ao Cliente
-	-Liderança
-	-Java
-	-Python
+	- SQL(experiência)
+	- Microsoft Office
+	- Gerenciamento de Projetos
+	- Habilidades Analiticas
+	- Comunicação
+	- Atendimento ao Cliente
+	- Liderança
+	- Java
+	- Python
 	
 
 **Formação Escolar**
