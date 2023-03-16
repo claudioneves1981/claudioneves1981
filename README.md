@@ -1,5 +1,35 @@
 # 💫 About Me:
-Habilidades / Competências / Experiências<br><br>    SQL(experiência)<br>    Microsoft Office<br>    Gerenciamento de Projetos<br>    Habilidades Analiticas<br>    Comunicação<br>    Atendimento ao Cliente<br>    Liderança<br>    Java<br>    Python<br><br>Formação Escolar<br><br>Curso em Tecnologia da Gestão da Tecnologia da Informação – Universidade Nove de Julho – UNINOVE – concluido 2021<br><br>Experiência Profissional<br><br>Empresa: Atento Brasil - 05/2022 - atualmente<br><br>    Cargo – Especialista em Relacionamento ao Cliente – Banco Original<br><br>Empresa: Atento Brasil - 03/2022 - 05/2022<br><br>    Cargo – Especialista em Relacionamento ao Cliente – Tech Tv / Samsung<br><br>Empresa: Atento Brasil – 10/2020 a 05/2021<br><br>    Cargo: Operador de Sac I – C6 Bank<br><br>Freelancer:<br><br>Empresa: Lomadee / Magazine Luiza<br><br>    Divulgação de Produtos pela Internet via Marketing de Afiliados em redes Sociais, Email e Blogs. Abril 2012 – Atualmente.<br><br>Empresa: Fuja<br><br>    Administração de Página Web, Pesquisa e Inserção de Conteúdo<br><br>    Elaboração e Edição de Planilhas em Excel. Out/2019 a Dez 2019.<br>
+### Habilidades / Competências / Experiências
+- SQL(experiência)   
+- Microsoft Office
+- Gerenciamento de Projetos  
+- Habilidades Analiticas    
+- Comunicação  
+- Atendimento ao Cliente<br>    
+- Liderança 
+- Java
+- Python
+
+### Formação Escolar
+- Curso em Tecnologia da Gestão da Tecnologia da Informação – Universidade Nove de Julho – UNINOVE – concluido 2021
+
+### Experiência Profissional
+- Empresa: Atento Brasil<br>
+  05/2022 - atualmente<br>
+  * *Cargo – Especialista em Relacionamento ao Cliente – Banco Original<br>*
+  03/2022 - 05/2022<br>
+  * *Cargo – Especialista em Relacionamento ao Cliente – Tech Tv / Samsung<br>*
+  10/2020 a 05/2021<br>
+  * *Cargo: Operador de Sac I – C6 Bank<br>*
+      
+ ### Freelancer:<br>
+ - Empresa: Lomadee / Magazine Luiza<br>
+    * *Divulgação de Produtos pela Internet via Marketing de Afiliados em redes Sociais, Email e Blogs.* 
+    * *Abril 2012 – Atualmente.<br>*
+ - Empresa: Fuja<br>
+    * *Administração de Página Web, Pesquisa e Inserção de Conteúdo<br>*
+    * *Elaboração e Edição de Planilhas em Excel.* 
+    * *Out/2019 a Dez 2019.<br>*
 
 
 ## 🌐 Socials:
