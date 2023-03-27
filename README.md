@@ -1,5 +1,29 @@
 # 💫 About Me:
 ### Habilidades / Competências / Experiências
+- Java: 
+  * *Spring Framework*
+  * *Spring Boot*
+  * *Spring Annotations*
+- Banco de dados relacionais:
+- Banco de dados não relacionais:
+- Testes:
+  * *JUnit*
+  * *Mokito*
+- Docker
+- Mensageria
+- Microservices 
+- API Rest
+- SOAP
+- Requisição HTTP
+- Swagger
+- JSon
+- Deploy
+- Build
+- Polimorfismo
+- Herança
+- Abstração
+- Encapsulamento
+- MVC
 - SQL(experiência)   
 - Microsoft Office
 - Gerenciamento de Projetos  
@@ -7,7 +31,6 @@
 - Comunicação  
 - Atendimento ao Cliente<br>    
 - Liderança 
-- Java
 - Python
 
 ### Formação Escolar
