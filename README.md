@@ -37,23 +37,21 @@
 - Curso em Tecnologia da Gestão da Tecnologia da Informação – Universidade Nove de Julho – UNINOVE – concluido 2021
 
 ### Experiência Profissional
-- Empresa: Atento Brasil<br>
-  05/2022 - atualmente<br>
-  * *Cargo – Especialista em Relacionamento ao Cliente – Banco Original<br>*
-  03/2022 - 05/2022<br>
-  * *Cargo – Especialista em Relacionamento ao Cliente – Tech Tv / Samsung<br>*
-  10/2020 a 05/2021<br>
-  * *Cargo: Operador de Sac I – C6 Bank<br>*
+
+##### Empresa: Atento Brasil<br>
+
+ * *05/2022 - atualmente Cargo – Especialista em Relacionamento ao Cliente – Banco Original*<br> 
+ * *03/2022 - 05/2022 Cargo – Especialista em Relacionamento ao Cliente – Tech Tv / Samsung*<br> 
+ * *10/2020 a 05/2021 Cargo: Operador de Sac I – C6 Bank*<br>
       
  ### Freelancer:<br>
- - Empresa: Lomadee / Magazine Luiza<br>
-    * *Divulgação de Produtos pela Internet via Marketing de Afiliados em redes Sociais, Email e Blogs.* 
-    * *Abril 2012 – Atualmente.<br>*
- - Empresa: Fuja<br>
-    * *Administração de Página Web, Pesquisa e Inserção de Conteúdo<br>*
-    * *Elaboração e Edição de Planilhas em Excel.* 
-    * *Out/2019 a Dez 2019.<br>*
-
+ ##### Empresa: Lomadee / Magazine Luiza<br>
+* *Divulgação de Produtos pela Internet via Marketing de Afiliados em redes Sociais, Email e Blogs.*
+* *Abril 2012 – Atualmente.<br>*
+##### Empresa: Fuja<br>
+* *Administração de Página Web, Pesquisa e Inserção de Conteúdo<br>*
+* *Elaboração e Edição de Planilhas em Excel.*
+* *Out/2019 a Dez 2019.<br>*
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/claudio.neves.81) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cfneguacu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cláudio-neves-a5416628) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@cfneguacu) 
