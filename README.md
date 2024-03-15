@@ -29,7 +29,7 @@
 - Gerenciamento de Projetos  
 - Habilidades Analiticas    
 - Comunicação  
-- Atendimento ao Cliente<br>    
+- Atendimento ao Cliente    
 - Liderança 
 - Python
 
@@ -40,7 +40,8 @@
 
 ##### Empresa: Atento Brasil<br>
 
- * *05/2022 - atualmente Cargo – Especialista em Relacionamento ao Cliente – Banco Original*<br> 
+ * *11/2023 - atualmente Cargo - Especialista em Relacionamento Digital I - Recarga Pay*<br>
+ * *05/2022 - 11/2023 Cargo – Especialista em Relacionamento ao Cliente – Banco Original*<br> 
  * *03/2022 - 05/2022 Cargo – Especialista em Relacionamento ao Cliente – Tech Tv / Samsung*<br> 
  * *10/2020 a 05/2021 Cargo: Operador de Sac I – C6 Bank*<br>
       
