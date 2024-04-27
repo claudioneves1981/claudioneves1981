@@ -1,37 +1,20 @@
 # 💫 About Me:
 ### Habilidades / Competências / Experiências
-- Java: 
-  * *Spring Framework*
-  * *Spring Boot*
-  * *Spring Annotations*
-- Banco de dados relacionais:
-- Banco de dados não relacionais:
-- Testes:
-  * *JUnit*
-  * *Mokito*
-- Docker
-- Mensageria
-- Microservices 
-- API Rest
-- SOAP
-- Requisição HTTP
-- Swagger
-- JSon
-- Deploy
-- Build
-- Polimorfismo
-- Herança
-- Abstração
-- Encapsulamento
-- MVC
-- SQL(experiência)   
-- Microsoft Office
-- Gerenciamento de Projetos  
-- Habilidades Analiticas    
-- Comunicação  
-- Atendimento ao Cliente    
-- Liderança 
-- Python
+Expertise em prestar suporte técnico aos clientes por meio de canais telefônicos e internet. 
+
+Familiaridade na Ferramenta Zendesk fazendo consultas de clientes e encaminhamento de problemas críticos ou não resolvidos para suportes N2 e N3
+
+Java Programming: Conhecimento avançado de conceitos fundamentais da linguagem e prática na implementação de soluções complexas.
+
+Frameworks Java: Domínio de frameworks populares como Spring, Hibernate ou outros que sejam relevantes para o contexto de desenvolvimento.
+
+Desenvolvimento Web: Servlets, JSP, HTML, CSS, JavaScript, e AJAX.
+
+Banco de Dados: Conhecimento em manipulação de bancos de dados relacionais, como MySQL, PostgreSQL, Oracle, ou SQL Server, e habilidades em SQL.
+
+Versionamento de Código: Proficiência em sistemas de controle de versão como Git, BitBucket para colaboração eficaz em equipe.
+
+Resolução de Problemas: Capacidade de identificar e resolver problemas complexos de maneira eficiente, aplicando princípios de resolução de problemas e depuração de código.
 
 ### Formação Escolar
 - Curso em Tecnologia da Gestão da Tecnologia da Informação – Universidade Nove de Julho – UNINOVE – concluido 2021
