@@ -1,7 +1,7 @@
 
 
 
-  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+[![Anurag's Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=claudioneves1981&langs_count=20&theme=radical&layout=compact)
   
 
   
