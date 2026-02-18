@@ -1,7 +1,5 @@
 
-
-
-[![Anurag's Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=claudioneves1981&langs_count=20&theme=radical&layout=compact)
+![Stats](./profile/stats.svg)
   
 
   
