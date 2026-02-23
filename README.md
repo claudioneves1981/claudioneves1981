@@ -1,5 +1,5 @@
 
-![Stats](./profile/stats.svg)
+![Top langs](./profile/top-langs.svg)
   
 
   
