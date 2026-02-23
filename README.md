@@ -1,5 +1,5 @@
 
-![Top langs](./profile/top-langs.svg)
+![Top Languages](./profile/top-langs.svg)
   
 
   
